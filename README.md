@@ -1,35 +1,32 @@
 # Flutter Note App
 
-A simple Flutter note-taking application that allows users to create, view, and delete notes. Data is stored locally using shared_preferences.
+Flutter Note App adalah aplikasi catatan sederhana yang dibuat menggunakan **Flutter** dan **Dart**.  
+Aplikasi ini memungkinkan pengguna untuk membuat, melihat, dan menyimpan catatan secara lokal di perangkat menggunakan **SharedPreferences**.
 
-## Features
-- Add notes
-- View note list
-- View note details
-- Delete notes
-- Local storage (offline)
+Project ini dibuat sebagai latihan pembelajaran Flutter, khususnya:
+- Navigasi antar halaman
+- Manajemen state sederhana
+- Penyimpanan data lokal
 
-## Installation
+---
 
-1. Clone repository
-```bash
-git clone https://github.com/USERNAME/flutter_note_app.git
-cd flutter_note_app
+## ✨ Fitur Aplikasi
+- 📄 Menampilkan daftar catatan
+- ➕ Menambahkan catatan baru
+- 🔍 Melihat detail catatan
+- 💾 Menyimpan data secara lokal (SharedPreferences)
+- 📱 Tampilan sederhana dan mudah dipahami
 
+---
 
-# flutter_note_app
+## 🛠️ Teknologi yang Digunakan
+- **Flutter**
+- **Dart**
+- **SharedPreferences** (local storage)
 
-A new Flutter project.
+---
 
-## Getting Started
+## 📂 Struktur Proyek (Disarankan)
 
-This project is a starting point for a Flutter application.
+Struktur folder yang direkomendasikan untuk proyek ini:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
